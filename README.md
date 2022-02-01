@@ -30,7 +30,7 @@ Liste des applications a télécharger sur mobile et les sites correspondants s'
     - [Dashboard > Valider votre compte](https://pantheratrade.live/user/dashboardhttps://pantheratrade.live/user/dashboard)
     - Remplir **TOUT** le formulaire sans laisser de champs vide.
 
-![Validation du compte sur **PantheraTrade.live**](https://robots-trading.fr/assets/img/verify-account-panthera-trade.png)
+    ![Validation du compte sur **PantheraTrade.live**](https://robots-trading.fr/assets/img/verify-account-panthera-trade.png)
 
     - Bank Account
         - Bank Name : Nom de sa banque réelle
@@ -40,9 +40,10 @@ Liste des applications a télécharger sur mobile et les sites correspondants s'
     - Crypto Account
         - Crypto Name : USDT
         - Crypto Address : [adresse USDT de dépôt sur Binance](https://www.binance.com/fr/my/wallet/account/main/deposit/crypto/USDT) (*choisir uniquement le réseau Ethereum ERC-20. Les autres blockchain comme Tron (TRC-20), Sol, Bsc... ne sont pas acceptées.)*.
-        - Email OTP : Entrez votre code Email OTP. Il s'agit d'un code que vous venez de recevoir par email. Dans le champ OTP, insérez le code comme dans l'exemple ci-dessous.
+
+        ![Email OTP](https://robots-trading.fr/assets/img/email-otp-pantheratrade-atg-atc.jpg)
         
-![Email OTP](https://robots-trading.fr/assets/img/email-otp-pantheratrade-atg-atc.jpg)
+        - Email OTP : Entrez votre code Email OTP. Il s'agit d'un code que vous venez de recevoir par email. Dans le champ OTP, insérez le code comme dans l'exemple ci-dessous.
 
     - File Upload
         - Envoyer les photos de sa pièce d'identité (ou passeport ou permis de conduire) RECTO/VERSO + 1 autre photo de soi (visage) avec sa pièce d'itendité RECTO via le site [IMGLINK.IO](IMGLINK.IO). Copier les URL générés dans le formulaire. 
@@ -52,7 +53,7 @@ Liste des applications a télécharger sur mobile et les sites correspondants s'
 1. Ouverture d'un compte de trading sur PantheraTrade
     - Pas besoin d'attendre que le compte soit validé pour passer aux prochaines étapes.
 
-![Ouverture d'un compte de trading](https://robots-trading.fr/assets/img/open-live-account-panthera.png)
+    ![Ouverture d'un compte de trading](https://robots-trading.fr/assets/img/open-live-account-panthera.png)
 
     - [Trading Account > Open Live Account](https://pantheratrade.live/user/create_mt4)
         - Broker : LegoMarket LCC
