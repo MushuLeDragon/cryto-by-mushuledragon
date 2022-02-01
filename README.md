@@ -19,48 +19,114 @@ Liste des applications a télécharger sur mobile et les sites correspondants s'
 
 # Etapes à suivre
 
-1. Inscription sur [Binance ici](https://accounts.binance.com/en/register?ref=362184926)
-    - *Mon ID de Reference / Code Parrainage :* **362184926**
-1. Inscription sur [PantheraTrade ici](https://pantheratrade.live/register/?r=IB48892465)
-    - *Mon IB Reference / Code Parrainage :* **IB48892465**
-    - Utiliser une adresse **Gmail** de préférence
-    - **:rotating_light::rotating_light::rotating_light: NE PAS UTILISER D'ADRESSE MAIL HOTMAIL, LAPOSTE, WANADOO :rotating_light::rotating_light::rotating_light:**
-1. Validation du compte sur **PantheraTrade.live**
-    - :rotating_light::rotating_light::rotating_light: Validation possible qu'avec un compte crypto validé. :rotating_light::rotating_light::rotating_light:
-    - [Dashboard > Valider votre compte](https://pantheratrade.live/user/dashboardhttps://pantheratrade.live/user/dashboard)
-    - Remplir **TOUT** le formulaire sans laisser de champs vide.
+## ETAPE 0 / BINANCE
 
-    ![Validation du compte sur **PantheraTrade.live**](https://robots-trading.fr/assets/img/verify-account-panthera-trade.png)
+Inscription sur [Binance ici](https://accounts.binance.com/en/register?ref=362184926)
 
-    - Bank Account
-        - Bank Name : Nom de sa banque réelle
-        - Bank Account Number : IBAN de sa banque réelle
-        - Bank Account Name : Nom de la personne rattachée à la banque
-        - Crypto Currency : ENABLE
-    - Crypto Account
-        - Crypto Name : USDT
-        - Crypto Address : [adresse USDT de dépôt sur Binance](https://www.binance.com/fr/my/wallet/account/main/deposit/crypto/USDT) (*choisir uniquement le réseau Ethereum ERC-20. Les autres blockchain comme Tron (TRC-20), Sol, Bsc... ne sont pas acceptées.)*.
+- *Mon ID de Reference / Code Parrainage :* **362184926**
 
-        ![Email OTP](https://robots-trading.fr/assets/img/email-otp-pantheratrade-atg-atc.jpg)
+## ETAPE 1 / PANTHERA TRADE
+
+Inscription sur [PantheraTrade ici](https://pantheratrade.live/register/?r=IB48892465)
+
+- *Mon IB Reference / Code Parrainage :* **IB48892465**
+- Utiliser une adresse **Gmail** de préférence
+- **:rotating_light::rotating_light::rotating_light: NE PAS UTILISER D'ADRESSE MAIL HOTMAIL, LAPOSTE, WANADOO :rotating_light::rotating_light::rotating_light:**
+
+## ETAPE 2 / PANTHERA TRADE
+
+Validation du compte sur **PantheraTrade.live**
+
+- :rotating_light::rotating_light::rotating_light: Validation possible qu'avec un compte crypto validé. :rotating_light::rotating_light::rotating_light:
+- [Dashboard > Valider votre compte](https://pantheratrade.live/user/dashboardhttps://pantheratrade.live/user/dashboard)
+- Remplir **TOUT** le formulaire sans laisser de champs vide.
+
+![Validation du compte sur **PantheraTrade.live**](https://robots-trading.fr/assets/img/verify-account-panthera-trade.png)
+
+- Bank Account
+    - Bank Name : Nom de sa banque réelle
+    - Bank Account Number : IBAN de sa banque réelle
+    - Bank Account Name : Nom de la personne rattachée à la banque
+    - Crypto Currency : ENABLE
+- Crypto Account
+    - Crypto Name : USDT
+    - Crypto Address : [adresse de dépôt USDT sur Binance](https://www.binance.com/fr/my/wallet/account/main/deposit/crypto/USDT) (*Réseau : Ethereum ERC20. Les autres blockchain comme Tron (TRC-20), Sol, Bsc... ne sont pas acceptées.)*.
+
+    ![Email OTP](https://robots-trading.fr/assets/img/email-otp-pantheratrade-atg-atc.jpg)
         
-        - Email OTP : Entrez votre code Email OTP. Il s'agit d'un code que vous venez de recevoir par email. Dans le champ OTP, insérez le code comme dans l'exemple ci-dessous.
+    - Email OTP : Entrez votre code Email OTP. Il s'agit d'un code que vous venez de recevoir par email. Dans le champ OTP, insérez le code comme dans l'exemple ci-dessous.
 
-    - File Upload
-        - Envoyer les photos de sa pièce d'identité (ou passeport ou permis de conduire) RECTO/VERSO + 1 autre photo de soi (visage) avec sa pièce d'itendité RECTO via le site [IMGLINK.IO](IMGLINK.IO). Copier les URL générés dans le formulaire. 
-        - Avatar et Tax ID sont facultatifs.
-        - Recopiez votre mot de passe
-    - Update pour enregistrer.
-1. Ouverture d'un compte de trading sur PantheraTrade
-    - Pas besoin d'attendre que le compte soit validé pour passer aux prochaines étapes.
+- File Upload
+    - Envoyer les photos de sa pièce d'identité (ou passeport ou permis de conduire) RECTO/VERSO + 1 autre photo de soi (visage) avec sa pièce d'itendité RECTO via le site [IMGLINK.IO](IMGLINK.IO). Copier les URL générés dans le formulaire. 
+    - Avatar et Tax ID sont facultatifs.
+    - Recopiez votre mot de passe
+- Update pour enregistrer.
 
-    ![Ouverture d'un compte de trading](https://robots-trading.fr/assets/img/open-live-account-panthera.png)
+## ETAPE 3 / PANTHERA TRADE
 
-    - [Trading Account > Open Live Account](https://pantheratrade.live/user/create_mt4)
-        - Broker : LegoMarket LCC
-        - Account Type : Gold
-        - Leverage : 1:500 (ni plus, ni moins)
-        - Real / Demo : Real
-        - Create MT4 Password : Je vous conseille d'utiliser le même mot de passe que celui de votre connexion à PantheraTrade
+Ouverture d'un compte de trading sur PantheraTrade
+    
+- Pas besoin d'attendre que le compte soit validé pour passer aux prochaines étapes.
+
+![Ouverture d'un compte de trading](https://robots-trading.fr/assets/img/open-live-account-panthera.png)
+
+- [Trading Account > Open Live Account](https://pantheratrade.live/user/create_mt4)
+    - Broker : LegoMarket LCC
+    - Account Type : Gold
+    - Leverage : 1:500 (ni plus, ni moins)
+    - Real / Demo : Real
+    - Create MT4 Password : Je vous conseille d'utiliser le même mot de passe que celui de votre connexion à PantheraTrade
+
+## ETAPE 4 / PANSAKA
+
+Pansaka est la société qui gère toutes les licences des produits de trading Autotrade. N'oubliez pas que vous devez posséder du Litecoin LTC sur votre exchange pour acheter votre licence.
+
+Inscription à [Pansaka ici](https://pansaka.co.id/?r=10154288).
+
+- Numéro Refferal : 10154288
+- Nationality : France (FR)
+- Full name : Prénom + Nom
+- NATIONAL ID NUMBER : Numéro de carte d'identité ou passeport à jour
+- Gender : Sexe
+- Email address : Email
+- New password : Mot de passe + confirmation (mettre le même que PantheraTrade)
+
+Remplissez le formulaire Crypto Account :
+
+- Select Crypto : USDT
+- Crypto Address :  [adresse de dépôt USDT sur Binance](https://www.binance.com/fr/my/wallet/account/main/deposit/crypto/USDT) (*Réseau : Ethereum ERC20. Les autres blockchain comme Tron (TRC-20), Sol, Bsc... ne sont pas acceptées.)*.
+
+## ETAPE 5 / PANSAKA
+
+Comment acheter ou upgrader votre licence AutoGold 5.0 ?
+
+[Special Program > Buy Special Product > Buy Future Package](https://pansaka.co.id/panel/upgrade-special.php)
+
+Choisir sa licence :
+- Product Future Package > ATG Gold (basé sur l'or)
+    - la LICENCE 1 coûte 112 $ et permet de mettre un capital compris entre 100 et 500 $.
+    - la LICENCE 2 coûte 224 $ et permet de mettre un capital compris entre 100 et 5.000 $.
+    - la LICENCE 3 coûte 560 $ et permet de mettre un capital compris entre 100 et 30.000 $.
+    - la LICENCE 4 coûte 2.800 $ et permet de mettre un capital compris 100 et 1.000.000 $.
+    - la LICENCE 5 coûte 3.920 $ et permet de mettre un capital minimum de 1.000.000 $.
+- Product Ultimate Package (basé sur les cryptomonaies)
+    - la LICENCE 1 coûte 200 $ et permet de mettre un capital compris entre 1.000 et 5.000 $.
+    - la LICENCE 2 coûte 620 $ et permet de mettre un capital compris entre 5.000 et 20.000 $.
+    - la LICENCE 3 coûte 2500 $ et permet de mettre un capital compris entre 1.000 et 50.000 $.
+    - la LICENCE 4 coûte 3100 $ et permet de mettre un capital compris entre 50.000 et 300.000 $.
+    - la LICENCE 5 coûte 4310 $ et permet de mettre un capital maximum de 10 millions $.
+
+![Order Special Plan](https://robots-trading.fr/assets/img/atc-crypto-licence-pansaka.png)
+
+## ETAPE 6 / PANSAKA
+
+Vérification et mode de règlement de votre licence
+
+## Etape 1
+
+
+## Etape 1
+
 
 
 
