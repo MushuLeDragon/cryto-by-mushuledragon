@@ -6,6 +6,7 @@ Tuto pour s'inscrire sur le robot de trading et verser ou retirer ses fonds
 
 - Binance (App de crypto) [inscription ici](https://accounts.binance.com/fr/register?ref=362184926)
 - Pantera Trade (Broker/Trader), [inscription ici](https://pantheratrade.live/register/?r=IB48892465)
+- Pansaka (site qui gère les licences), [inscription ici](https://pansaka.co.id/?r=10154288)
 
 ## Applications à télécharger
 
@@ -166,6 +167,10 @@ Finalisation du paiement de la licence Autotrade Gold.
 ## ETAPE 10 / PANTHERA TRADE
 
 Comment déposer son capital de trading sur PantheraTrade ? (1/3)
+
+*On suppose que la licence est en cours de paiement (pour le vérifier, rendez-vous sur la page d'accueil de Pantheratrade. EA Status : Active).*
+
+Aller sur [PantheraTrade](https://pantheratrade.live/) pour déposer le capital de trading chez le Broker LegoMarket. Cliquer sur [Transaction > Deposit](https://pantheratrade.live/user/deposit-fund
 
 ## ETAPE 11 / PANTHERA TRADE
 
