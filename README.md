@@ -4,7 +4,7 @@ Tuto pour s'inscrire sur le robot de trading et verser ou retirer ses fonds
 
 # Liste des sites et Apps
 
-- Binance (App de crypto), [inscription ici](https://accounts.binance.com/fr/register?ref=362184926)
+- Binance (App de crypto), [inscription ici](https://accounts.binance.com/fr/register?ref=362184926) (ou d'autres Apps de Crypto : [Crypto.com](https://crypto.com/exch/k3h48gsf5t), [Coinbase](https://www.coinbase.com/join/kai_e)
 - Pantera Trade (Broker/Trader), [inscription ici](https://pantheratrade.live/register/?r=IB48892465)
 - Pansaka (site qui gère les licences), [inscription ici](https://pansaka.co.id/?r=10154288)
 - MetaTrader 4, site qui permet de voir l'évolution des actions effectuées par le robot de trading. Disponible sur [PC](https://download.mql5.com/cdn/web/metaquotes.software.corp/mt4/mt4setup.exe?utm_source=www.metatrader4.com&utm_campaign=download), [Android](https://download.mql5.com/cdn/mobile/mt4/android?utm_source=www.metatrader4.com) et [iOS/Apple](https://download.mql5.com/cdn/mobile/mt4/ios?utm_source=www.metatrader4.com&utm_campaign=download)
