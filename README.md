@@ -18,6 +18,13 @@ Liste des applications a télécharger sur mobile et les sites correspondants s'
 - Pansaka, site permettant d'acheter la licence qui donne accès à l'utilisation du robot de trading.
 - MetaTrader 4, site qui permet de voir l'évolution des actions effectuées par le robot de trading. Disponible sur [PC](https://download.mql5.com/cdn/web/metaquotes.software.corp/mt4/mt4setup.exe?utm_source=www.metatrader4.com&utm_campaign=download), [Android](https://download.mql5.com/cdn/mobile/mt4/android?utm_source=www.metatrader4.com) et [iOS/Apple](https://download.mql5.com/cdn/mobile/mt4/ios?utm_source=www.metatrader4.com&utm_campaign=download)
 
+## Documents à prévoir
+
+- Photo RECTO CNI
+- Photo VERSO CNI
+- Photo SELFIE + RECTO CNI
+- Justificatif de domicile
+
 # Etapes à suivre
 
 ## ETAPE 0 / BINANCE
@@ -200,7 +207,7 @@ Comment retirer ses gains et/ou son capital à tout moment ?
 # Quelques notions
 
 1. Quantité de $ qui seront pris en compte lors d'un trade (ce sont tous les paliers qui permettront de gagner plus lors d'un trade) :
-    - Sur ATG : le robot trade par lot de 1.000$
+    - Sur ATG : le robot trade par lot de 500$
     - Sur ATC : le robot trade par lot de 10.000$
 
 
