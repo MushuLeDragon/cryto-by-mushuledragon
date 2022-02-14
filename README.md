@@ -197,6 +197,12 @@ Comment retirer ses gains et/ou son capital à tout moment ?
 
 
 
+# Quelques notions
+
+1. Quantité de $ qui seront pris en compte lors d'un trade (ce sont tous les paliers qui permettront de gagner plus lors d'un trade) :
+    - Sur ATG : le robot trade par lot de 1.000$
+    - Sur ATC : le robot trade par lot de 10.000$
+
 
 
 Mes liens de parrainage :
