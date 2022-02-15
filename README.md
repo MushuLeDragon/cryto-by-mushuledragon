@@ -187,6 +187,10 @@ Comme à l'étape 8 ([voir](#etape-8--coinpayment)).
 2. A droite : Choisir la cryptomonnaie Litecoin (LTC, faible coût de transaction et rapide).
 3. A gauche : Cliquer sur le bouton **Commande complète**. *Il n'est pas necessaire de s'inscrire à CoinPayments pour effectuer des transactions.*
 
+Une nouvelle page s'ouvrira sur CoinPayments en vous fournissant le montant ainsi que l'adresse où vous devrez déposer vos Litecoins LTC.
+
+:bulb: Attention, ce sera une nouvelle adresse de dépôt. Ce ne sera pas la même adresse de dépôt que celle de votre licence.
+
 Sur Binance : [Acheter du Litecoin LTC](https://www.binance.com/fr/buy-sell-crypto?channel=card&fiat=EUR)
 
 ![LTC payment](https://robots-trading.fr/assets/img/1-coinpayments-deposit-litecoin.png)
@@ -195,30 +199,101 @@ Sur Binance : [Acheter du Litecoin LTC](https://www.binance.com/fr/buy-sell-cryp
 
 Déposer son capital de trading chez PantheraTrade. (3/3)
 
+Comme à l'étape 9 ([voir](#etape-9--binance)).
+
+1. Indiquer l'adresse LTC du destinataire, celle mentionnée sur Coinpayment.
+2. Choisir le moyenn de paiement LTC
+3. Indiquer le montant LTC à déposer et **ajouter 0.001 au montant total LTC pour les frais de gestion**. Si le montant est incorrect, la transaction sera refusée.
+
+:coffee: Patientez quelques dizaines de minutes. Un email de confirmation sera envoyé par Binance et CoinPayment afin de d'indiquer que le virement a été réalisé correctement.
+
+:bulb: Tant que le support technique d'Auto Trade Gold n'a pas validé la transaction, il est impossible de voir son capital sur l'application MT4.
+
+![Validation dépôt](https://robots-trading.fr/assets/img/2-coinpayment-binance-crypto-deposit.jpg)
+
 ## ETAPE 13 / PANSAKA / ATG-SYSTEM
 
 Associer ATG System et Pansaka.
+
+Pour se connecter à ATG System, utiliser le même email et mot de passe que sur Pantheratrade > [Se connecter à ATG System](https://atg-system.com/login).
+
+### PREMIÈRE ACQUISITION
+
+Si il s’agit de votre tout premier achat de licence, vous allez voir un écran avec un bouton unique. Cliquez sur « Activate EA »
+
+![PREMIÈRE ACQUISITION](https://www.bots-de-trading.com/wp-content/uploads/2021/09/Tutoriel-AutoTradeGold-20.jpg)
+
+### UPGRADE DE LICENCE
+
+A l’inverse, si vous êtes en train de faire l’acquisition d’une nouvelle licence supérieure à celle que vous possédez actuellement, il vous faudra cliquer sur le bouton « Upgrade EA »
+
+![PREMIÈRE ACQUISITION](https://www.bots-de-trading.com/wp-content/uploads/2021/09/Tutoriel-AutoTradeGold-21.jpg)
+
+### SAISIR LES INFOS VOUCHER
+
+Sur cet écran, il ne vous reste plus qu’à saisir votre Voucher ID et votre Voucher Code qui vous auront été envoyés par mail.
+
+💡 Dans le cas où vous n’auriez pas reçu les Vouchers par mail, vous pouvez les retrouver dans votre historique d’achat sur Pansaka.
+
+![PREMIÈRE ACQUISITION](https://www.bots-de-trading.com/wp-content/uploads/2021/09/Tutoriel-AutoTradeGold-22-1.jpg)
+
+### VÉRIFICATION
+
+Une fois la validation terminée, votre nouvelle licence doit s’afficher sur l’écran d’accueil de ATG System
+
+Il peut y avoir un petit délai entre la validation de la licence et l’affichage de celle-ci.
+
+Pour que celle-ci soit 100% opérationnelle et bien rattachée à votre compte PantheraTrade, il faut que le statut de la licence soit en « Active » et que le statut du compte soit en « Connected »
+
+Si la mention « Detached » apparait en haut à droite, il vous faut cliquer sur le bouton « Refresh » en bout de ligne afin de forcer l’actualisation (sauf dans le cas de l’achat de votre première licence où cela est normal).
+
+![PREMIÈRE ACQUISITION](https://www.bots-de-trading.com/wp-content/uploads/2021/09/Tutoriel-AutoTradeGold-23.jpg)
+
+🚨🚨 Il est normal que le compte reste en état « Detached » si le solde de votre compte sur PantheraTrade est inférieur à 100$
+(cela sera donc le cas tant que vous n’aurez pas déposer votre capital initial)
 
 ## ETAPE 14 / METATRADER 4
 
 Comment suivre ses gains sur l'appli MetaTrader 4 ?
 
+MT4 est une application mobile gratuite vous permettant de suivre l'évolution de vos gains. Que vous soyez sous Android ou IOS, vous la trouverez facilement dans les Stores. Regardez bien le logo, il vous faut la version 4 de MetaTrader.
+
+![MT4](https://www.bots-de-trading.com/wp-content/uploads/2021/09/Tutoriel-AutoTradeGold-32.jpg)
+
+Une fois installée, nous allons la paramétrer à votre compte de trading. Pour se faire, vous avez dû recevoir un email de PantheraTrade avec 4 données importantes.
+
+- SERVEUR : LegoMarketLLC2-Live
+- NOM D'UTILISATEUR : Il s'agit de votre numéro de compte que vous trouverez sur la page d'accueil de PantheraTrade ou dans le mail que vous avez reçu à la création du compte
+- MOT DE PASSE : Il s'agit du mot de passe "Investor Password" que vous avez reçu également par mail lors de la création du compte
+
+![Mail pour MT4](https://www.bots-de-trading.com/wp-content/uploads/2021/09/Tutoriel-AutoTradeGold-34.jpg)
+
 ## ETAPE 15 / PANTHERA TRADE
 
 Comment retirer ses gains et/ou son capital à tout moment ?
 
+Vous ne pouvez retirer que dans la devise de votre dépôt initial. Si vous avez indiqué des USDT dans Crypto Address, vous allez recevoir des USDT. Attention, les retraits sont de 50$ minimum et de 2000$ maximum par jour pour les comptes inférieurs à 100.000$. Au delà de 100.000$ déposé (et non gagné), vous pouvez retirer 10% du capital par jour. Compter 10 à 30$ de frais de transaction (peu importe le montant souhaité), selon la devise choisie.
 
+**Effectuer un retrait depuis PantheraTrade**
 
+Pour effectuer un retrait, retournez sur le site PantheraTrade, cliquez sur Transaction > Withdrawal.
 
+Sélectionnez la devise que vous avez renseigné dans le champ crypto address lors de votre inscription (USDT / LTC ou autre), puis validez.
 
+WIP WIP WIP WIP WIP WIP WIP WIP WIP WIP 
 
 # Quelques notions
 
 1. Quantité de $ qui seront pris en compte lors d'un trade (ce sont tous les paliers qui permettront de gagner plus lors d'un trade) :
     - Sur ATG : le robot trade par lot de 500$
     - Sur ATC : le robot trade par lot de 10.000$
-2. Sur Binance :
-    - **Acheter de l'USDT** : frais toujours de 1$
+2. Les différents frais de service :
+    - Sur Binance :
+        - Acheter du USDT avec des € : toujours 1$ de frais quelque soit le montant
+        - Acheter du LTC avec des € : % du montant total
+    - PantheraTrade / Pansaka :
+        - Achat de la license en LTC : 0.001 LTC de frais
+        - Dépot de capital en LTC : 0.001 LTC de frais
 
 
 
