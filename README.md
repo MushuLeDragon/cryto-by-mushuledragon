@@ -138,8 +138,8 @@ Facturation de votre licence
 
 Règlement de la licence Autotrade Gold en Litecoin (LTC), avec CoinPayment.
 
-1. A gauche : Remplir les informations de l'utilisateur. Bien vérifier que l'email correspond.
-2. A drite : Choisir la cryptomonnaie Litecoin (LTC, faible coût de transaction et rapide).
+1. A gauche : Remplir les informations de l'utilisateur pour la facturation. Bien vérifier que l'email correspond.
+2. A droite : Choisir la cryptomonnaie Litecoin (LTC, faible coût de transaction et rapide).
 3. A gauche : Cliquer sur le bouton **Commande complète**. *Il n'est pas necessaire de s'inscrire à CoinPayments pour effectuer des transactions.*
 
 Sur Binance : [Acheter du Litecoin LTC](https://www.binance.com/fr/buy-sell-crypto?channel=card&fiat=EUR)
@@ -168,11 +168,28 @@ Comment déposer son capital de trading sur PantheraTrade ? (1/3)
 
 *On suppose que la licence est en cours de paiement (pour le vérifier, rendez-vous sur la page d'accueil de Pantheratrade. EA Status : Active).*
 
-Aller sur [PantheraTrade](https://pantheratrade.live/) pour déposer le capital de trading chez le Broker LegoMarket. Cliquer sur [Transaction > Deposit](https://pantheratrade.live/user/deposit-fund
+Aller sur [PantheraTrade](https://pantheratrade.live/) pour déposer le capital de trading chez le Broker LegoMarket. Cliquer sur [Transaction > Deposit](https://pantheratrade.live/user/deposit-fund) et choisir **CoinPayment** (Attention de choisir le montant à déposer en fonction de la Licence prise sur Pansaka).
+
+- Amount USD : Montant à déposer en Dollars $
+- Deposit Target : Account
+- Select Account : Numéro de votre compte ATG 5 (ici GOLD)
+- Cocher la case *I agree with the Terms and Conditions.*
+
+![Déposer des fonds](https://robots-trading.fr/assets/img/coinpayments-deposit-money-pantheratrade.png)
 
 ## ETAPE 11 / PANTHERA TRADE
 
 Déposer son capital avec CoinPayment. (2/3)
+
+Comme à l'étape 8 ([voir](#etape-8--coinpayment)).
+
+1. A gauche : Remplir les informations de l'utilisateur pour la facturation. Bien vérifier que l'email correspond.
+2. A droite : Choisir la cryptomonnaie Litecoin (LTC, faible coût de transaction et rapide).
+3. A gauche : Cliquer sur le bouton **Commande complète**. *Il n'est pas necessaire de s'inscrire à CoinPayments pour effectuer des transactions.*
+
+Sur Binance : [Acheter du Litecoin LTC](https://www.binance.com/fr/buy-sell-crypto?channel=card&fiat=EUR)
+
+![LTC payment](https://robots-trading.fr/assets/img/1-coinpayments-deposit-litecoin.png)
 
 ## ETAPE 12 / PANTHERA TRADE
 
@@ -200,6 +217,8 @@ Comment retirer ses gains et/ou son capital à tout moment ?
 1. Quantité de $ qui seront pris en compte lors d'un trade (ce sont tous les paliers qui permettront de gagner plus lors d'un trade) :
     - Sur ATG : le robot trade par lot de 500$
     - Sur ATC : le robot trade par lot de 10.000$
+2. Sur Binance :
+    - **Acheter de l'USDT** : frais toujours de 1$
 
 
 
