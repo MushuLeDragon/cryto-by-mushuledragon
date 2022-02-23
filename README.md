@@ -1,6 +1,6 @@
-# Crypto and trading by MushuLeDragon
+# Robot trading by MushuLeDragon
 
-Tuto pour s'inscrire sur le robot de trading et verser ou retirer ses fonds
+Tuto pour s'inscrire sur le robot de trading, verser ou retirer ses fonds
 
 # Liste des sites et Apps
 
@@ -12,9 +12,9 @@ Tuto pour s'inscrire sur le robot de trading et verser ou retirer ses fonds
 ## Documents à prévoir
 
 - Photo RECTO CNI
-- Photo VERSO CNI
 - Photo SELFIE + RECTO CNI
 - Justificatif de domicile
+- RIB de sa banque (pour le numéro de compte)
 
 # Etapes à suivre
 
